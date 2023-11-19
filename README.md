@@ -2,7 +2,7 @@
 
 Welcome to the Radar System project repository! This project combines Python, Arduino, and an ultrasonic sensor to create a radar-like system that detects and displays the presence of objects in its vicinity. This README file provides an overview of the project and instructions on how to set it up and use it.
 
-![](https://github.com/MAzewail/Radar-System-Python-Arduino/blob/main/Photos/Radar.png)
+[](https://github.com/MAzewail/Radar-System-Python-Arduino/blob/main/Photos/Radar.png)
 
 ## Features
 
@@ -20,7 +20,7 @@ To get started with the Radar System, follow these steps:
 
 - Python 3.x installed (https://www.python.org/downloads/)
 - Arduino IDE installed (https://www.arduino.cc/en/software)
-- Required Python packages: `pyserial`, `opencv-python`
+- Required Python packages: `pyserial`, `opencv-python`, `numpy`
 
 ### Hardware Setup
 
