@@ -59,7 +59,7 @@ To get started with the Radar System, follow these steps:
 If you want to log the detected object data for further analysis, follow these steps:
 
 1. Create a `data` directory within the project directory.
-2. Uncomment the lines related to data logging in the `radar_system.py` script.
+2. Uncomment the lines related to data logging in the `Radar_Graph_File.py` script.
 3. Run the script as described in the "Usage" section.
 4. The detected object data will be logged to a CSV file in the `data` directory.
 
