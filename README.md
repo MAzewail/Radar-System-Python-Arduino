@@ -39,13 +39,14 @@ To get started with the Radar System, follow these steps:
 ### Usage
 
 1. Open a terminal or command prompt and navigate to the project directory.
-2. Run the Python script using the following command:
+2. Check the Port before running the code and edit the COM in the line # 
+3. Run the Python script using the following command:
    ````
-   python radar_system.py
+   python Radar_Graph_File.py
    ```
-3. The radar system interface will open, displaying the scan area and detected objects in real-time using OpenCV.
-4. Adjust the scanning range and rotation speed as desired by modifying the corresponding variables in the Python script.
-5. Press Ctrl+C in the terminal or command prompt to stop the program.
+4. The radar system interface will open, displaying the scan area and detected objects in real-time using OpenCV.
+5. Adjust the scanning range and rotation speed as desired by modifying the corresponding variables in the Python script.
+6. Press Ctrl+C in the terminal or command prompt to stop the program.
 
 ### Data Logging
 
