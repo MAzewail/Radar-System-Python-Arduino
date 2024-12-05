@@ -48,13 +48,14 @@ To get started with the Radar System, follow these steps:
    cd Radar-System-Python-Arduino
    ````
 6. Check the Port before running the code and edit the COM in the line # 35
-7. Run the Python script using the following command:
+   ![](https://github.com/MAzewail/Radar-System-Python-Arduino/blob/main/Photos/Screenshot%202024-12-05%20111038.png)
+8. Run the Python script using the following command:
    ````
    python Radar_Graph_File.py
    ```
-8. The radar system interface will open, displaying the scan area and detected objects in real-time using OpenCV.
-9. Adjust the scanning range and rotation speed as desired by modifying the corresponding variables in the Python script.
-10. Press Ctrl+C in the terminal or command prompt to stop the program.
+9. The radar system interface will open, displaying the scan area and detected objects in real-time using OpenCV.
+10. Adjust the scanning range and rotation speed as desired by modifying the corresponding variables in the Python script.
+11. Press Ctrl+C in the terminal or command prompt to stop the program.
 
 ### Data Logging
 
