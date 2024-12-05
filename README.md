@@ -39,7 +39,7 @@ To get started with the Radar System, follow these steps:
 ### Usage
 
 1. Open a terminal or command prompt and navigate to the project directory.
-2. Check the Port before running the code and edit the COM in the line # 
+2. Check the Port before running the code and edit the COM in the line # 35
 3. Run the Python script using the following command:
    ````
    python Radar_Graph_File.py
