@@ -34,7 +34,6 @@ To get started with the Radar System, follow these steps:
 3. Install the required Python packages by running the following command:
    ````
    pip install pyserial opencv-python
-   ```
 
 ### Usage
 
