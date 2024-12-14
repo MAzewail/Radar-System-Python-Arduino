@@ -30,7 +30,7 @@ To get started with the Radar System, follow these steps:
 ### Software Setup
 
 1. Clone or download this repository to your local machine.
-2. Open the Arduino IDE and upload the `arduino_code.ino` sketch from the `arduino` directory to your Arduino board.
+2. Open the Arduino IDE and upload the `Arduino_Radar.ino` sketch from the `arduino` directory to your Arduino board.
 3. Install the required Python packages by running the following command:
    ````
    pip install pyserial opencv-python
