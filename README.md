@@ -69,7 +69,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as permitted by the license.
+This project is licensed under the [MIT License]([LICENSE](https://github.com/MAzewail/Radar-System-Python-Arduino/blob/main/LICENSE.txt)). Feel free to use, modify, and distribute the code as permitted by the license.
 
 ## Contact
 
